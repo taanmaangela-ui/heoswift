@@ -1,4 +1,4 @@
-const message = `KASAYSAYAN AT LIPUNAN: Pakikilahok \n\ Taan, Ma. Angela P.    11 - Cayley`;
+const message = `PAG-AARAL NG KASAYSAYAN AT LIPUNAN NG PILIPINAS: \n\ Pakikilahok Taan, Ma. Angela P.    11 - Cayley`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
